@@ -1,1 +1,1 @@
-# weather_analysis
+This program calculates monthly summaries of different cities from a csv file that contains weather statistics.
